@@ -1,0 +1,44 @@
+.navbar ul{
+    list-style-type:none ;
+    background-color:grey;
+    padding:0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color:white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: hsl(0,0%,10%);
+}
+.navbar li{
+    float: left;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-image: url(../inventory/IMG-20250503-WA0003.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+    
+p{
+    text-size-adjust: 30px;
+    color: antiquewhite;
+}
+h1{
+    color: rgb(199, 235, 235);
+}
+h2{
+    color: rgb(199, 235, 235);
+}
+ul{
+    color: aquamarine;
+}

@@ -1,0 +1,86 @@
+
+body{
+    background-image: url(../inventory/inventory.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+h1{
+    text-align: center;
+    text-decoration: double;
+    text-transform: uppercase;
+}
+.navbar ul{
+    list-style-type:none ;
+    background-color:grey;
+    padding:0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color:white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: hsl(0,0%,10%);
+}
+.navbar li{
+    float: left;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 50px;
+    
+}
+.container{
+    margin: 100px 0 0 200px;
+    width: 70%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.container img{
+    width: 10%;
+    height: 50%;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 2px solid(255,255,255,o.684);
+    transition: all ease-in-out o.5s;
+}
+.container img:hover{
+    width: 25%;
+}
+h2{
+    text-align: center;
+}
+ul{
+    text-align: center;
+    text-size-adjust: 40px;
+    text-decoration-thickness: 50%;
+}
+li{
+    text-align: center;
+    font-size: 24px;
+
+}
+p{
+    font-size: 24px;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    font-size: 24px;
+}

@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+    text-decoration: double;
+    text-transform: uppercase;
+}
+.navbar ul{
+    list-style-type:none ;
+    background-color:grey;
+    padding:0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color:white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: hsl(0,0%,10%);
+}
+.navbar li{
+    float: left;
+}
+p{
+    text-decoration: wavy;
+    text-transform: inherit;
+    text-decoration-color: aquamarine;
+    text-align: center;
+
+}
+body{
+    background-image: url(../inventory/contact.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 100vh;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+
+    
+}
+
+h2{
+    text-align: center;
+}
+p{
+    text-size-adjust: 24px;
+}
+
