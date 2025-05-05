@@ -1,0 +1,2 @@
+# vmgtraders part2
+
